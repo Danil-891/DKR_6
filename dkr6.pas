@@ -181,7 +181,6 @@ begin
       3: RemoveAtHead;
       4: RemoveAtTail;
       5: DisplayList;
-      6: writeln('Досвидания');
       else writeln('Недействительный выбор');
     end;
     writeln;
